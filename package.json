@@ -1,0 +1,10 @@
+{
+  "name": "redux-crud",
+  "version": "0.0.1",
+  "description": "React/Redux crud table",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
